@@ -1,8 +1,10 @@
-# Impact of Input Representation on LLMs for Legal Document Classification in Portuguese: A Comparative Study
+# Comparing Prompt-based LLMs, Fine-Tuning, and Classical Models for Legal Text Classification in Portuguese
 
-This study evaluates the use of Large Language Models (LLMs) with prompt engineering for classifying legal petitions in Portuguese by procedural type. Four input representations are compared: full text, summaries, centroids, and semantic descriptions. The experiments use real data in Portuguese from a Public Defender's Office in Brazil. Results show that summaries reduce token cost by more than 90\% and improve macro F1-score. The findings confirm that input representation can impact LLM effectiveness. LLMs via prompting outperform traditional models without requiring labeled data or training. The approach can be flexible and economically viable for legal document classification.
+To run the fine-tuning and classical model experiments, it is recommended to copy the notebooks to Google Colab, set up the environment by installing the required libraries listed in the code, adjust the paths to point to the synthetic data, and create the necessary directories in Google Drive to store the results, such as evaluation metrics, the best fine-tuned model, logs, and processed dataset versions.
 
-## Prerequisites
+## To run Fine-Tuning and Classic Models, you can make a copy of the Jupiter notebooks via Google Colab, configure the environment by installing the libraries present in the codes, change the directory for the synthetic data and create folders in the Google drive, for example to save the evaluation metrics, improve the fine-tuning mode, etc.
+
+## Prerequisites (Prompt-based LLMs)
 
 - **Python 3.8+**
 - **Google Colab** (or local environment with Jupyter Notebook)
