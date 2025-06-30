@@ -56,7 +56,7 @@ llm = ChatOpenAI(api_key=api_key, model='meta-llama/Meta-Llama-3.1-8B-Instruct-T
    - Save results, including classifications, metrics reports, and confusion matrices, directly to Google Drive.
 
 7. Credits
-   - This project was developed by **MSc. Willgnner Ferreira Santos** [Lattes](http://lattes.cnpq.br/3203020327904139), **Prof. Dr. Arlindo Rodrigues Galvão Filho** [Lattes](http://lattes.cnpq.br/7744765287200890), **Prof. Dr. Sávio Salvarino Teles de Oliveira** [Lattes](http://lattes.cnpq.br/1905829499839846), and **MSc. João Paulo Cavalcante Presa** [Lattes](http://lattes.cnpq.br/5092666506514753) as part of a study on the evaluation of large language models for classifying legal documents in portuguese.
+   - This project was developed by **MSc. Willgnner Ferreira Santos** [Lattes](http://lattes.cnpq.br/3203020327904139), **Prof. Dr. Arlindo Rodrigues Galvão Filho** [Lattes](http://lattes.cnpq.br/7744765287200890), **Prof. Dr. Sávio Salvarino Teles de Oliveira** [Lattes](http://lattes.cnpq.br/1905829499839846), and **MSc. João Paulo Cavalcante Presa** [Lattes](http://lattes.cnpq.br/5092666506514753).
  
 
 
