@@ -4,6 +4,9 @@ To run the fine-tuning and classical model experiments, it is recommended to cop
 
 ## To run Fine-Tuning and Classic Models, you can make a copy of the Jupiter notebooks via Google Colab, configure the environment by installing the libraries present in the codes, change the directory for the synthetic data and create folders in the Google drive, for example to save the evaluation metrics, improve the fine-tuning mode, etc.
 
+## Article publication 
+- **https://sol.sbc.org.br/index.php/eniac/article/view/38798**
+
 ## Prerequisites (Prompt-based LLMs)
 
 - **Python 3.8+**
